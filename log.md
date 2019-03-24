@@ -56,4 +56,4 @@
 
 **Thoughts** Finally completed the "Portfolio Page" and it's mobile view, I made used of flexbox and media query aswell.
 
-**Link(s) to work** [Portfolio Page](https://sammychris.github.io/Portfolio-Page /)
+**Link(s) to work** [Portfolio Page](https://sammychris.github.io/Portfolio-Page/)
