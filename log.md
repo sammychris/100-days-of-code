@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 18, 2019
+### Day 0: March 18, Monday, 2019
 
 **Today's Progress**: Learnt a lot from freeCodeCamp HTML and CSS in freeCodeCamp.
 
@@ -8,7 +8,7 @@
 
 
 
-### Day 1: March 19, 2019
+### Day 1: March 19, Tursday
 
 **Today's Progress**: completed the Tribute page.
                       Now it's time to build my first freeCodeCamp project: "The Tribute Page".
@@ -20,7 +20,7 @@
 
 
 
-### Day 2: March 20, Monday
+### Day 2: March 20, Wednesday
 
 **Today's Progress**: Now it's time to work on the second project: "Survey Form".
 
@@ -30,7 +30,7 @@
 
 
 
-### Day 3: March 21, Monday
+### Day 3: March 21, Thursday
 
 **Today's Progress**: Now it's time to work on the Third project: "Product Landing Page".
 
@@ -40,7 +40,7 @@
 
 
 
-### Day 4: March 22, Monday
+### Day 4: March 22, Friday
 
 **Today's Progress**: Now it's time to work on the Fourth project: "Technical Documentation Page".
 
@@ -50,10 +50,20 @@
 
 
 
-### Day 5: March 23, Monday
+### Day 5: March 23, Saturday
 
 **Today's Progress**: Now it's time to work on the Fifth project: "Portfolio Page".
 
 **Thoughts** Finally completed the "Portfolio Page" and it's mobile view, I made used of flexbox and media query aswell.
+
+**Link(s) to work** [Portfolio Page](https://sammychris.github.io/Portfolio-Page/)
+
+
+
+### Day 6: March 24, Sunday
+
+**Today's Progress**: Now in Javascript section of freeCodeCamp.
+
+**Thoughts** ""
 
 **Link(s) to work** [Portfolio Page](https://sammychris.github.io/Portfolio-Page/)
