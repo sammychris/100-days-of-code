@@ -64,6 +64,6 @@
 
 **Today's Progress**: Now in Javascript section of freeCodeCamp.
 
-**Thoughts** ""
+**Thoughts** "It so cool working with javascript, I am loving it!"
 
 **Link(s) to work** [Portfolio Page](https://sammychris.github.io/Portfolio-Page/)
