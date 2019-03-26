@@ -66,4 +66,20 @@
 
 **Thoughts** "It so cool working with javascript, I am loving it!"
 
-**Link(s) to work** [Portfolio Page](https://sammychris.github.io/Portfolio-Page/)
+**Link(s) to work** 
+[Find the length of string](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string)
+[Word Blanks](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)
+[Shopping List](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)
+
+### Day 7: March 25, Sunday
+
+**Today's Progress**: Still working with Javascript and new es6 features.
+
+**Thoughts** "It so cool working with javascript, I am loving it!"
+
+**Link(s) to work** 
+[Stand in line](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line)
+[Golf code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/golf-code)
+[Counting Cards](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
+[Record Collection](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
+[Profile Lookup](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
