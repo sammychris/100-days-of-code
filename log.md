@@ -83,3 +83,14 @@
 [Counting Cards](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
 [Record Collection](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
 [Profile Lookup](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+
+
+
+### Day 8: March 26, Sunday
+
+**Today's Progress**: Still in Javascript Regex section.
+
+**Thoughts** "Finished the new es6 section"
+
+**Link(s) to work** 
+
