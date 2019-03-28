@@ -71,7 +71,7 @@
 [Word Blanks](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)
 [Shopping List](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)
 
-### Day 7: March 25, Sunday
+### Day 7: March 25, Monday
 
 **Today's Progress**: Still working with Javascript and new es6 features.
 
@@ -86,7 +86,7 @@
 
 
 
-### Day 8: March 26, Sunday
+### Day 8: March 26, Tuesday
 
 **Today's Progress**: Still in Javascript Regex section.
 
@@ -95,7 +95,7 @@
 **Link(s) to work** 
 
 
-### Day 9: March 27, Sunday
+### Day 9: March 27, Wednesday
 
 **Today's Progress**: Now in js Debug section.
 
