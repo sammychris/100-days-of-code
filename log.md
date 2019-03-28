@@ -94,3 +94,14 @@
 
 **Link(s) to work** 
 
+
+### Day 9: March 27, Sunday
+
+**Today's Progress**: Now in js Debug section.
+
+**Thoughts** "Completed the Regex section of FCC"
+
+
+**Link(s) to work** 
+[Remove Whitespace from Start and End](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end)
+[Check for All or None](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/check-for-all-or-none)
