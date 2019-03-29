@@ -117,3 +117,28 @@
 **Link(s) to work** 
 [Removing Items Using Splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice/)
 [Add Items Using Splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice/)
+
+
+### Day 11: March 29, Friday
+
+**Today's Progress**: Now in js Object Oriented Programming.
+
+**Thoughts** "Completed the basic Algorithm, but I'm planing on starting react today using scrimba videos"
+
+
+**Link(s) to work** 
+[basic-algorithm-scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+[reverse-a-string](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string)
+[factorialize-a-number](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number)
+[find-the-longest-word-in-a-string](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string)
+[return-largest-numbers-in-arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays)
+[confirm-the-ending](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/confirm-the-ending)
+[Repeat a String Repeat a String](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)
+[truncate-a-string](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
+[Removing Items Using Splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
+[boo-who](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/boo-who)
+[slice-and-splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)
+[falsy-bouncer](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer)
+[where-do-i-belong](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
+[mutations](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)
+[chunky-monkey](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey)
