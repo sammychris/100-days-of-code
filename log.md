@@ -105,3 +105,15 @@
 **Link(s) to work** 
 [Remove Whitespace from Start and End](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end)
 [Check for All or None](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/check-for-all-or-none)
+
+
+### Day 10: March 28, Thurdays
+
+**Today's Progress**: Now in js Basic Algorith.
+
+**Thoughts** "Completed the Debugging and Basic Data Structures"
+
+
+**Link(s) to work** 
+[Removing Items Using Splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice/)
+[Add Items Using Splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice/)
