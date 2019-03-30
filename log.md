@@ -142,3 +142,15 @@
 [where-do-i-belong](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
 [mutations](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)
 [chunky-monkey](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey)
+
+
+
+### Day 11: March 29, Friday
+
+**Today's Progress**: Functional Programming Challenges on FCC, Still in React section on scrimba.
+
+**Thoughts** "Completed the  Object Oriented Programming Challenges, continue with React videos on scrimba"
+
+
+**Link(s) to work** 
+
