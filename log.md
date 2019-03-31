@@ -145,7 +145,7 @@
 
 
 
-### Day 12: March 29, Saturday
+### Day 12: March 30, Saturday
 
 **Today's Progress**: Functional Programming Challenges on FCC, Still in React section on scrimba.
 
@@ -156,7 +156,7 @@
 
 
 
-### Day 13: March 29, Sunday
+### Day 13: March 31, Sunday
 
 **Today's Progress**: still in Functional Programming Challenges.
 
