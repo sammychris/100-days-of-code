@@ -168,6 +168,7 @@
 **Today's Progress**: Now in Intermediate Algorithm Scripting Challenges.
                       Completed the Functional Programming Challenges.
 
-**Thoughts** "This has been one of the most challenging parts of freeCodeCamp."
+**Thoughts** "This has been one of the most challenging parts of freeCodeCamp.
+              but while still trying to solve the challenges, I had to move Front-end section of FCC starting with boostrap"
 
 **Link(s) to work** [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/)
