@@ -163,7 +163,7 @@
 **Thoughts** "Could not good much yesterday."
 
 
-### Day 13: March 31, Sunday
+### Day 14: April 1, Monday
 
 **Today's Progress**: Now in Intermediate Algorithm Scripting Challenges.
                       Completed the Functional Programming Challenges.
