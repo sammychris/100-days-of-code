@@ -172,3 +172,13 @@
               but while still trying to solve the challenges, I had to move Front-end section of FCC starting with boostrap"
 
 **Link(s) to work** [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/)
+
+
+### Day 14: April 2, Tuesday
+
+**Today's Progress**: Completed the boostraps, Jquery, Sass. Did some Intermediate Algorithm Scripting Challenges.
+                      Moving in to react.
+
+**Thoughts** "I so much love the Intermediate Algorithm and I was able to have completed some of the challenges"
+
+**Link(s) to work** Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
