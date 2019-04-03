@@ -174,11 +174,22 @@
 **Link(s) to work** [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/)
 
 
-### Day 14: April 2, Tuesday
+### Day 15: April 2, Tuesday
 
 **Today's Progress**: Completed the boostraps, Jquery, Sass. Did some Intermediate Algorithm Scripting Challenges.
                       Moving in to react.
 
 **Thoughts** "I so much love the Intermediate Algorithm and I was able to have completed some of the challenges"
 
-**Link(s) to work** Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+**Link(s) to work** [Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+
+
+### Day 16: April 3, Wednesday
+
+**Today's Progress**: Completed the Intermediate Algorithm Scripting Challenges.
+                      Moved to JavaScript Algorithms and Data Structures Projects, and React on FrontEnd Section of FCC.
+
+**Thoughts** "It has been a very amazing experience"
+
+**Link(s) to work** [Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
