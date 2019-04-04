@@ -193,3 +193,13 @@
 **Thoughts** "It has been a very amazing experience"
 
 **Link(s) to work** [Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+
+### Day 17: April 4, Thursday
+
+**Today's Progress**: "Completed JavaScript Algorithms and Data Structures Projects".
+
+**Thoughts** "Now I am confidence of my Intermediate Algorithm skill"
+
+**Link(s) to work** 
+[Introduction to the JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/)
