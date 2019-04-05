@@ -203,3 +203,13 @@
 
 **Link(s) to work** 
 [Introduction to the JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/)
+
+
+### Day 18: April 5, Tuesday
+
+**Today's Progress**: "Still on react".
+
+**Thoughts** "I will have to finish the frontend section so that I can start with the project by tomorrow. Resource FreeCodeCamp"
+
+**Link(s) to work** 
+[Introduction to the JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/)
