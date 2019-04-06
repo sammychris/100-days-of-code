@@ -223,4 +223,4 @@
 **Thoughts** "I could not do much just as I planned yesterday. I will have to finish this, then move to the frontend projects. Resource FreeCodeCamp"
 
 **Link(s) to work** 
-[Introduction to the JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/)
+[React](https://learn.freecodecamp.org/front-end-libraries/react)
