@@ -224,3 +224,14 @@
 
 **Link(s) to work** 
 [React](https://learn.freecodecamp.org/front-end-libraries/react)
+
+
+
+### Day 20: April 7, Sunday
+
+**Today's Progress**: "Completed Redux including React and Redux section on FCC, now it time for project".
+
+**Thoughts** "It's challenging, but I am loving it!" Resource https://learn.freecodecamp.org"
+
+**Link(s) to work** 
+[React and Redux](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
