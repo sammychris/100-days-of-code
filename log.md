@@ -235,3 +235,14 @@
 
 **Link(s) to work** 
 [React and Redux](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
+
+
+
+### Day 21: April 8, Monday
+
+**Today's Progress**: "Still in the Random Quote Machine".
+
+**Thoughts** "loving this"
+
+**Link(s) to work** 
+
