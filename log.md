@@ -251,6 +251,6 @@
 
 **Today's Progress**: "Completed the Random Quote Machine".
 
-**Thoughts** "This is my first React App"
+**Thoughts** "This is my first React and Scss App, built as part of freeCodeCamp's Project"
 
 **Link(s) to work** [Random Quote Machine](https://codepen.io/SammyChris/full/XQjegW)
