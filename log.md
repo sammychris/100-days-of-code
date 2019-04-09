@@ -253,4 +253,4 @@
 
 **Thoughts** "This is my first React App"
 
-**Link(s) to work**[Random Quote Machine](https://codepen.io/SammyChris/full/XQjegW)
+**Link(s) to work** [Random Quote Machine](https://codepen.io/SammyChris/full/XQjegW)
