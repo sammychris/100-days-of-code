@@ -246,3 +246,11 @@
 
 **Link(s) to work** 
 
+
+### Day 22: April 9, Monday
+
+**Today's Progress**: "Completed the Random Quote Machine".
+
+**Thoughts** "This is my first React App"
+
+**Link(s) to work**[Random Quote Machine](https://codepen.io/SammyChris/full/XQjegW)
