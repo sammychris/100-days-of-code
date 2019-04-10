@@ -249,8 +249,18 @@
 
 ### Day 22: April 9, Monday
 
-**Today's Progress**: "Completed the Random Quote Machine".
+**Today's Progress**: "Completed the Simple Markdown Previewer".
 
 **Thoughts** "This is my first React and Scss App, built as part of freeCodeCamp's Project"
 
-**Link(s) to work** [Random Quote Machine](https://codepen.io/SammyChris/full/XQjegW)
+**Link(s) to work** [Simple Markdown Previewer](https://codepen.io/SammyChris/full/XQjegW)
+
+
+### Day 22: April 9, Monday
+
+**Today's Progress**: "Added new feature to Simple Markdown Previewer".
+                      "Continue with the Random Quote Machine"
+
+**Thoughts** "I had to make the app increase in width and height when you click on the little icon on the panel title"
+
+**Link(s) to work** [Simple Markdown Previewer](https://codepen.io/SammyChris/full/XQjegW)
