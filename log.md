@@ -256,7 +256,7 @@
 **Link(s) to work** [Simple Markdown Previewer](https://codepen.io/SammyChris/full/XQjegW)
 
 
-### Day 22: April 9, Monday
+### Day 22: April 10, Tuesday
 
 **Today's Progress**: "Added new feature to Simple Markdown Previewer".
                       "Continue with the Random Quote Machine"
