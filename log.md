@@ -247,7 +247,7 @@
 **Link(s) to work** 
 
 
-### Day 22: April 9, Monday
+### Day 22: April 9, Tuesday
 
 **Today's Progress**: "Completed the Simple Markdown Previewer".
 
@@ -256,7 +256,7 @@
 **Link(s) to work** [Simple Markdown Previewer](https://codepen.io/SammyChris/full/XQjegW)
 
 
-### Day 22: April 10, Tuesday
+### Day 23: April 10, Wednesday
 
 **Today's Progress**: "Added new feature to Simple Markdown Previewer".
                       "Continue with the Random Quote Machine"
@@ -264,3 +264,13 @@
 **Thoughts** "I had to make the app increase in width and height when you click on the little icon on the panel title"
 
 **Link(s) to work** [Simple Markdown Previewer](https://codepen.io/SammyChris/full/XQjegW)
+
+
+
+### Day 24: April 11, Thurday
+
+**Today's Progress**: "Completed the Random Quote Machine, and moving to the next project". 
+
+**Thoughts** "for now no design ideas, just had to replecate the actual design"
+
+**Link(s) to work** [Random Quote Machine](https://codepen.io/SammyChris/full/GLjoyj?editors=0010)
