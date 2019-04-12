@@ -283,4 +283,4 @@
 
 **Thoughts** "This is becoming very challenging, but I will have to get through with it no matter what it takes"
 
-**Link(s) to work** [Drum Machine](https://codepen.io/SammyChris/full/GLjoyj?editors=0010)
+**Link(s) to work** [Drum Machine](https://codepen.io/SammyChris/full/BEWrbG?editors=0010)
