@@ -274,3 +274,13 @@
 **Thoughts** "for now no design ideas, just had to replecate the actual design"
 
 **Link(s) to work** [Random Quote Machine](https://codepen.io/SammyChris/full/GLjoyj?editors=0010)
+
+
+
+### Day 25: April 12, Friday
+
+**Today's Progress**: "Working on the Drum Machine". 
+
+**Thoughts** "This is becoming very challenging, but I will have to get through with it no matter what it takes"
+
+**Link(s) to work** [Drum Machine](https://codepen.io/SammyChris/full/GLjoyj?editors=0010)
