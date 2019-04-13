@@ -284,3 +284,13 @@
 **Thoughts** "This is becoming very challenging, but I will have to get through with it no matter what it takes"
 
 **Link(s) to work** [Drum Machine](https://codepen.io/SammyChris/full/BEWrbG?editors=0010)
+
+
+
+### Day 26: April 13, Saturday
+
+**Today's Progress**: "On Drum Machine Design". 
+
+**Thoughts** "Completed it functionality currently on Design"
+
+**Link(s) to work** [Drum Machine](https://codepen.io/SammyChris/full/BEWrbG?editors=0010)
