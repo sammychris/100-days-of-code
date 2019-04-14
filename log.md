@@ -294,3 +294,13 @@
 **Thoughts** "Completed it functionality currently on Design"
 
 **Link(s) to work** [Drum Machine](https://codepen.io/SammyChris/full/BEWrbG?editors=0010)
+
+
+
+### Day 27: April 14, Sunday
+
+**Today's Progress**: "On Drum Machine Design Design". 
+
+**Thoughts** "Completed it functionality currently on Design"
+
+**Link(s) to work** [Drum Machine](https://codepen.io/SammyChris/full/BEWrbG?editors=0010)
