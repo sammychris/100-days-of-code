@@ -299,8 +299,20 @@
 
 ### Day 27: April 14, Sunday
 
-**Today's Progress**: "On Drum Machine Design Design". 
+**Today's Progress**: "On Drum Machine Design". 
 
 **Thoughts** "Completed it functionality currently on Design"
 
 **Link(s) to work** [Drum Machine](https://codepen.io/SammyChris/full/BEWrbG?editors=0010)
+
+
+
+### Day 28: April 15, Monday
+
+**Today's Progress**: "Completed Drum Machine Design". 
+
+**Thoughts** "Currenlty working on the Javascript Calculator, justing to pass all test by FCC seems difficult"
+
+**Link(s) to work** 
+[Drum Machine](https://codepen.io/SammyChris/full/BEWrbG?editors=0010)
+[Javascript Calculator](https://codepen.io/SammyChris/full/mgBWPR?editors=0010)
