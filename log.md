@@ -316,3 +316,14 @@
 **Link(s) to work** 
 [Drum Machine](https://codepen.io/SammyChris/full/BEWrbG?editors=0010)
 [Javascript Calculator](https://codepen.io/SammyChris/full/mgBWPR?editors=0010)
+
+
+
+### Day 29: April 16, Tuesday
+
+**Today's Progress**: "Completed Calculator Functionality, currently working on it design". 
+
+**Thoughts** "One of the most difficulty project work on, using react"
+
+**Link(s) to work** 
+[Javascript Calculator](https://codepen.io/SammyChris/full/mgBWPR?editors=0010)
