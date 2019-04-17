@@ -327,3 +327,14 @@
 
 **Link(s) to work** 
 [Javascript Calculator](https://codepen.io/SammyChris/full/mgBWPR?editors=0010)
+
+
+
+### Day 30: April 17, Wednesday
+
+**Today's Progress**: "Finally completed the Javascript Calculator". 
+
+**Thoughts** "Currently Working on the pomodoro timer App"
+
+**Link(s) to work** 
+[Javascript Calculator](https://codepen.io/SammyChris/full/mgBWPR?editors=0010)
