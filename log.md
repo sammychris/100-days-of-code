@@ -338,3 +338,14 @@
 
 **Link(s) to work** 
 [Javascript Calculator](https://codepen.io/SammyChris/full/mgBWPR?editors=0010)
+
+
+
+### Day 30: April 17, Wednesday
+
+**Today's Progress**: "Completed the pomodoro, currently working on it design". 
+
+**Thoughts** "Trying to complete it design"
+
+**Link(s) to work** 
+[Pomodoro Clock](https://codepen.io/SammyChris/full/BEJBjx?editors=0110)
