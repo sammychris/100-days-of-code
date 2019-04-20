@@ -341,7 +341,7 @@
 
 
 
-### Day 30: April 18, Thursday
+### Day 31: April 18, Thursday
 
 **Today's Progress**: "Completed the pomodoro, currently working on it design". 
 
@@ -352,12 +352,21 @@
 
 
 
-### Day 31: April 19, Friday
+### Day 32: April 19, Friday
 
 **Today's Progress**: "Completed the Pomodoro Clock. Completed the FrontEnd Section on FCC". 
 
-**Thoughts** "Now moving in to D#"
+**Thoughts** "Now moving in to D3"
 
 **Link(s) to work** 
 [Pomodoro Clock](https://codepen.io/SammyChris/full/BEJBjx?editors=0110)
 
+
+
+### Day 33: April 20, Saturday
+
+**Today's Progress**: "Completed the D3 Tutorial Section of FCC, now moving in to the projects". 
+
+**Thoughts** "Still having issues of how to start the first project"
+
+**Link(s) to work** 
