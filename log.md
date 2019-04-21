@@ -370,3 +370,13 @@
 **Thoughts** "Still having issues of how to start the first project"
 
 **Link(s) to work** 
+
+
+
+### Day 34: April 21, Sunday
+
+**Today's Progress**: "Still on the barchar d3 project". 
+
+**Thoughts** "It's becoming tough and exciting"
+
+**Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/pen/pBKbNQ?editors=0010)
