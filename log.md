@@ -380,3 +380,13 @@
 **Thoughts** "It's becoming tough and exciting"
 
 **Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/pen/pBKbNQ?editors=0010)
+
+
+
+### Day 35: April 22, Monday
+
+**Today's Progress**: "Still on the barchar d3 project". 
+
+**Thoughts** "I added gradient to my barchart"
+
+**Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/pen/pBKbNQ?editors=0010)
