@@ -390,3 +390,14 @@
 **Thoughts** "I added gradient to my barchart"
 
 **Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/pen/pBKbNQ?editors=0010)
+
+
+
+### Day 36: April 23, Tuesday
+
+**Today's Progress**: "Still on the barchar d3 project". 
+
+**Thoughts** "I added gradient to my barchart"
+
+**Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/pen/pBKbNQ?editors=0010)
+
