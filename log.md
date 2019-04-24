@@ -401,3 +401,13 @@
 
 **Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/pen/pBKbNQ?editors=0010)
 
+
+
+### Day 37: April 24, Wednesday
+
+**Today's Progress**: "Still on the barchar d3 project". 
+
+**Thoughts** "Finalizing"
+
+**Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/full/pBKbNQ?editors=0010)
+
