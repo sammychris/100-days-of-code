@@ -411,3 +411,12 @@
 
 **Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/full/pBKbNQ?editors=0010)
 
+
+
+### Day 38: April 25, Thursday
+
+**Today's Progress**: "Finalizing Barchart d3". 
+
+**Thoughts** "I have been so busy lately"
+
+**Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/full/pBKbNQ?editors=0010)
