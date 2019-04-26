@@ -420,3 +420,13 @@
 **Thoughts** "I have been so busy lately"
 
 **Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/full/pBKbNQ?editors=0010)
+
+
+
+### Day 39: April 26, Friday
+
+**Today's Progress**: "Completed the Barchar Project". 
+
+**Thoughts** "It's been a tough week"
+
+**Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/full/pBKbNQ?editors=0010)
