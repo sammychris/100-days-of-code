@@ -430,3 +430,14 @@
 **Thoughts** "It's been a tough week"
 
 **Link(s) to work** [D3 Barchart](https://codepen.io/SammyChris/full/pBKbNQ?editors=0010)
+
+
+
+### Day 40: April 27, Saturday
+
+**Today's Progress**: "Still on the D3 Scatter Plot". 
+
+**Thoughts** "Will be through before the end of today"
+
+**Link(s) to work** [D3 Scatter Plot](https://codepen.io/SammyChris/full/dLwZJq)
+
