@@ -441,3 +441,13 @@
 
 **Link(s) to work** [D3 Scatter Plot](https://codepen.io/SammyChris/full/dLwZJq)
 
+
+
+### Day 41: April 28, Sunday
+
+**Today's Progress**: "Completed D3 Scatter Plot". 
+
+**Thoughts** "it's has been an amazing experience working with d3, now I have to move to the next project"
+
+**Link(s) to work** [D3 Scatter Plot](https://codepen.io/SammyChris/full/dLwZJq)
+
