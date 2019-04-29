@@ -451,3 +451,12 @@
 
 **Link(s) to work** [D3 Scatter Plot](https://codepen.io/SammyChris/full/dLwZJq)
 
+
+
+### Day 42: April 29, Monday
+
+**Today's Progress**: "Currently Working on the third D3 project 'Heat Map'". 
+
+**Thoughts** "I don't know if I should use the color from sample project on FCC"
+
+**Link(s) to work** [D3 Heat Map](https://codepen.io/SammyChris/full/dLrMvY?editors=0010)
