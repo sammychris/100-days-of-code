@@ -460,3 +460,13 @@
 **Thoughts** "I don't know if I should use the color from sample project on FCC"
 
 **Link(s) to work** [D3 Heat Map](https://codepen.io/SammyChris/full/dLrMvY?editors=0010)
+
+
+
+### Day 43: April 30, Tuesday
+
+**Today's Progress**: "Still on the third D3 project 'Heat Map'". 
+
+**Thoughts** "Having issues with colors"
+
+**Link(s) to work** [D3 Heat Map](https://codepen.io/SammyChris/full/dLrMvY?editors=0010)
