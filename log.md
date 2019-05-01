@@ -470,3 +470,13 @@
 **Thoughts** "Having issues with colors"
 
 **Link(s) to work** [D3 Heat Map](https://codepen.io/SammyChris/full/dLrMvY?editors=0010)
+
+
+
+### Day 44: May 1, Wednesday
+
+**Today's Progress**: "Completed D3 project 'Heat Map'". 
+
+**Thoughts** "Finally, I was able to complete my third d3 project called 'Heat Map'"
+
+**Link(s) to work** [D3 Heat Map](https://codepen.io/SammyChris/full/dLrMvY?editors=0010)
