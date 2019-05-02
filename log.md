@@ -480,3 +480,13 @@
 **Thoughts** "Finally, I was able to complete my third d3 project called 'Heat Map'"
 
 **Link(s) to work** [D3 Heat Map](https://codepen.io/SammyChris/full/dLrMvY?editors=0010)
+
+
+
+### Day 45: May 2, Thurdays
+
+**Today's Progress**: "Start the 4th d3 project called "Choropleth Map"". 
+
+**Thoughts** "This is looking confusing, I have to look for cool resource to learn from"
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1010)
