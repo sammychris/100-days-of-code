@@ -483,10 +483,20 @@
 
 
 
-### Day 45: May 2, Thurdays
+### Day 45: May 2, Thursday
 
 **Today's Progress**: "Start the 4th d3 project called "Choropleth Map"". 
 
 **Thoughts** "This is looking confusing, I have to look for cool resource to learn from"
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1010)
+
+
+
+### Day 46: May 23, Friday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "Could not find a helpful resource to learn from, just some bunch of stupid Documentation"
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1010
