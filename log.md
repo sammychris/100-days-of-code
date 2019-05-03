@@ -499,4 +499,4 @@
 
 **Thoughts** "Could not find a helpful resource to learn from, just some bunch of stupid Documentation"
 
-**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1010
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1010)
