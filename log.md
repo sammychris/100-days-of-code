@@ -500,3 +500,13 @@
 **Thoughts** "Could not find a helpful resource to learn from, just some bunch of stupid Documentation"
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1010)
+
+
+
+### Day 47: May 24, Saturday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "It's taking longer than it should"
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1
