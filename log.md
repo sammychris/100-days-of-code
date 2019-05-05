@@ -493,7 +493,7 @@
 
 
 
-### Day 46: May 23, Friday
+### Day 46: May 3, Friday
 
 **Today's Progress**: "Still on the Choropleth Map". 
 
@@ -503,10 +503,20 @@
 
 
 
-### Day 47: May 24, Saturday
+### Day 47: May 4, Saturday
 
 **Today's Progress**: "Still on the Choropleth Map". 
 
 **Thoughts** "It's taking longer than it should"
 
-**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+### Day 48: May 5, Sunday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "Today's Sunday not doing much"
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
