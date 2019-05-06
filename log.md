@@ -522,11 +522,6 @@
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
 
 
-Still on the "Choropleth Map".
-It's going to be a busy week for me.☹️☹️☹️
-
-I just had to do my best.
-
 
 ### Day 49: May 6, Monday
 
