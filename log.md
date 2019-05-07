@@ -530,3 +530,13 @@
 **Thoughts** It's going to be a busy week for me ☹️☹️☹️. I just had to do my best."
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+### Day 50: May 7, Tuesday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "Another awesome day."
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
