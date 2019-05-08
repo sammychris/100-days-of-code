@@ -540,3 +540,13 @@
 **Thoughts** "Another awesome day."
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+### Day 51: May 8, Wednesday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "I have to spend some time on it today."
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
