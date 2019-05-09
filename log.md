@@ -550,3 +550,13 @@
 **Thoughts** "I have to spend some time on it today."
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+### Day 52: May 9, Thursday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "I will do more today."
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
