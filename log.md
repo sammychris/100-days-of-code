@@ -560,3 +560,14 @@
 **Thoughts** "I will do more today."
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+
+### Day 53: May 10, Friday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "Could not power my laptop today."
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
