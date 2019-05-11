@@ -571,3 +571,14 @@
 **Thoughts** "Could not power my laptop today."
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+
+### Day 54: May 11, Saturday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "Still could not power my laptop today."
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
