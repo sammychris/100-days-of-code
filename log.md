@@ -582,3 +582,13 @@
 **Thoughts** "Still could not power my laptop today."
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+### Day 55: May 12, Sunday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "Still on Choropleth Map, I have to finish this before the end of tomorrow"
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
