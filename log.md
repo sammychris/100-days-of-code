@@ -592,3 +592,13 @@
 **Thoughts** "Still on Choropleth Map, I have to finish this before the end of tomorrow"
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+### Day 56: May 13, Monday
+
+**Today's Progress**: "Still on the Choropleth Map". 
+
+**Thoughts** "Could not do much yesterday"
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
