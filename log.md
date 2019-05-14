@@ -602,3 +602,15 @@
 **Thoughts** "Could not do much yesterday"
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+
+### Day 57: May 14, Tuesday
+
+**Today's Progress**: "Completed the Choropleth Map". 
+
+**Thoughts** "Because of how busy I have been for a while this project took longer than it should,
+              but it has been an awesome experience"
+
+**Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
