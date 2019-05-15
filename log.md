@@ -614,3 +614,13 @@
               but it has been an awesome experience"
 
 **Link(s) to work** [D3 Choropleth Map](https://codepen.io/SammyChris/pen/PgrjGW?editors=1)
+
+
+
+### Day 58: May 15, Wednesday
+
+**Today's Progress**: "Currently working on D3 Tree Map". 
+
+**Thoughts** "Learning new stuffs via this project"
+
+**Link(s) to work** [D3 Tree Map](https://codepen.io/SammyChris/full/dEOyxG?editors=0010)
