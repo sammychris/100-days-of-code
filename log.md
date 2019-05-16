@@ -624,3 +624,13 @@
 **Thoughts** "Learning new stuffs via this project"
 
 **Link(s) to work** [D3 Tree Map](https://codepen.io/SammyChris/full/dEOyxG?editors=0010)
+
+
+
+### Day 59: May 16, Thursday
+
+**Today's Progress**: "Completed on D3 Tree Map". 
+
+**Thoughts** "Finally I was able complete the project"
+
+**Link(s) to work** [D3 Tree Map](https://codepen.io/SammyChris/full/dEOyxG?editors=0010)
