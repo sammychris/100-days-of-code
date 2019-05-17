@@ -634,3 +634,12 @@
 **Thoughts** "Finally I was able complete the project"
 
 **Link(s) to work** [D3 Tree Map](https://codepen.io/SammyChris/full/dEOyxG?editors=0010)
+
+
+### Day 60: May 17, Friday
+
+**Today's Progress**: "Currently working on the Backend Section of FCC". 
+
+**Thoughts** "FIt very simple but I am having issues with the test"
+
+**Link(s) to work** 
