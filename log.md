@@ -642,4 +642,13 @@
 
 **Thoughts** "FIt very simple but I am having issues with the test"
 
+
+### Day 61: May 18, Saturday
+
+**Today's Progress**: "Completed the first FCC Backend Section." 
+
+**Thoughts** "I will have to start my first FCC Backend project by tomorrow, just need to rest for today"
+
 **Link(s) to work** 
+[Basic Node and Express](https://glitch.com/edit/#!/secretive-curio?path=myApp.js:13:32)
+[Mongodb and Mongoose](https://glitch.com/edit/#!/gigantic-decade?path=myApp.js:50:25)
