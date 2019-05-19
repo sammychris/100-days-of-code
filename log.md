@@ -652,3 +652,13 @@
 **Link(s) to work** 
 [Basic Node and Express](https://glitch.com/edit/#!/secretive-curio?path=myApp.js:13:32)
 [Mongodb and Mongoose](https://glitch.com/edit/#!/gigantic-decade?path=myApp.js:50:25)
+
+
+
+### Day 62: May 19, Sunday
+
+**Today's Progress**: "Completed the first FCC Backend project 'Timestamp Microservice'" 
+
+**Thoughts** "Currently working on the next project"
+
+**Link(s) to work** [Timestamp Microservice](https://sammy-timestamp.glitch.me/)
