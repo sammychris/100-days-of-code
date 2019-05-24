@@ -692,3 +692,22 @@
 **Thoughts** "Completed my second FCC Backend projects "Request Header Parser Microservice"."
 
 **Link(s) to work** [Request Header Parser Microservice](https://req-header-micro.glitch.me/)
+
+
+### Day 66: May 23, Thursday 
+
+**Today's Progress**: "Started on chingu voyage prework project, tier 3" 
+
+**Thoughts** "I planned to finish it tomorrow, and also worked on some algorith on codewars"
+
+**Link(s) to work** 
+
+
+
+### Day 67: May 24, Friday 
+
+**Today's Progress**: "Still on the tier 3 project 'Memeteorite Explorer'" 
+
+**Thoughts** "I planned to finish it today"
+
+**Link(s) to work** 
