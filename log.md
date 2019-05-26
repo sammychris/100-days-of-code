@@ -711,3 +711,21 @@
 **Thoughts** "I planned to finish it today"
 
 **Link(s) to work** 
+
+
+### Day 68: May 25, Saturday 
+
+**Today's Progress**: "Still on the tier 3 project 'Memeteorite Explorer'" 
+
+**Thoughts** "Could not finish"
+
+**Link(s) to work** 
+
+
+### Day 69: May 26, Sunday 
+
+**Today's Progress**: "Still on the tier 3 project 'Memeteorite Explorer'" 
+
+**Thoughts** "It's getting more tough"
+
+**Link(s) to work** 
