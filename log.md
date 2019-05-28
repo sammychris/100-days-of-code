@@ -729,3 +729,21 @@
 **Thoughts** "It's getting more tough"
 
 **Link(s) to work** 
+
+
+### Day 69: May 27, Monday 
+
+**Today's Progress**: "Still on the tier 3 project 'Memeteorite Explorer'" 
+
+**Thoughts** "Worked on design"
+
+**Link(s) to work** 
+
+
+### Day 69: May 28, Tuesday 
+
+**Today's Progress**: "Still on the tier 3 project 'Memeteorite Explorer'" 
+
+**Thoughts** "I have to work on the api data format"
+
+**Link(s) to work** 
