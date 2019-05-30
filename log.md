@@ -747,3 +747,22 @@
 **Thoughts** "I have to work on the api data format"
 
 **Link(s) to work** 
+
+
+
+### Day 70: May 29, Wednesday 
+
+**Today's Progress**: "Completed the 'Memeteorite Explorer App'" 
+
+**Thoughts** "It took a lot of time."
+
+**Link(s) to work** 
+
+
+### Day 71: May 30, Thurday 
+
+**Today's Progress**: "Still adding some features to 'Memeteorite Explorer App'" 
+
+**Thoughts** "I had to work on the search button"
+
+**Link(s) to work** 
