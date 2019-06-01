@@ -766,3 +766,22 @@
 **Thoughts** "I had to work on the search button"
 
 **Link(s) to work** 
+
+
+### Day 72: May 31, Friday 
+
+**Today's Progress**: "Still adding some features to 'Memeteorite Explorer App'" 
+
+**Thoughts** "I had to work on the search button"
+
+**Link(s) to work** 
+
+
+
+### Day 73: June 1, Saturday 
+
+**Today's Progress**: "Still adding some features to 'Memeteorite Explorer App'" 
+
+**Thoughts** "I had to work on the search button"
+
+**Link(s) to work** 
