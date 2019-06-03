@@ -785,3 +785,22 @@
 **Thoughts** "I had to work on the search button"
 
 **Link(s) to work** 
+
+
+
+### Day 74: June 2, Sunday 
+
+**Today's Progress**: "Lack of Power Supply" 
+
+**Thoughts** "Did not do anything today"
+
+**Link(s) to work** 
+
+
+### Day 75: June 3, Monday 
+
+**Today's Progress**: "Moved back to freecodecamp backend" 
+
+**Thoughts** "started back with the freecodecamp backend section"
+
+**Link(s) to work** 
