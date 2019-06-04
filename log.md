@@ -804,3 +804,14 @@
 **Thoughts** "started back with the freecodecamp backend section"
 
 **Link(s) to work** 
+
+
+### Day 76: June 4, Tuesday 
+
+**Today's Progress**: "Completed the 'Apis and Microservices Projects - Exercise Tracker'" 
+
+**Thoughts** "Moved to the next"
+
+**Link(s) to work** [Apis and Microservices Projects - Exercise Tracker](https://exercise-tracker-projects.glitch.me)
+
+
