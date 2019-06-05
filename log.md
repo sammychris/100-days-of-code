@@ -815,3 +815,12 @@
 **Link(s) to work** [Apis and Microservices Projects - Exercise Tracker](https://exercise-tracker-projects.glitch.me)
 
 
+
+### Day 77: June 5, Wednesday 
+
+**Today's Progress**: "Completed the 'File-Metadata-Microservice'" 
+
+**Thoughts** "Moved to the next"
+
+**Link(s) to work** [File-Metadata-Microservice](https://file-metadata-microservices.glitch.me/)
+
