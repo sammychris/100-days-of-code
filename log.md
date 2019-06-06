@@ -824,3 +824,13 @@
 
 **Link(s) to work** [File-Metadata-Microservice](https://file-metadata-microservices.glitch.me/)
 
+
+
+### Day 78: June 7, Thursday 
+
+**Today's Progress**: "Completed the 'Information Security with HelmetJS'" 
+
+**Thoughts** "Moved to the next 'introduction to Quality Assurance with Chai Challenges'"
+
+**Link(s) to work**
+
