@@ -834,3 +834,13 @@
 
 **Link(s) to work**
 
+
+
+### Day 79: June 8, Friday 
+
+**Today's Progress**: "Completed the 'Quality Assurance with Chai Challenges'" 
+
+**Thoughts** "Currently on Advanced Node and Express"
+
+**Link(s) to work**
+
