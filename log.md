@@ -844,3 +844,13 @@
 
 **Link(s) to work**
 
+
+
+### Day 80: June 9, Saturday 
+
+**Today's Progress**: "Currently on Advanced Node and Express..." 
+
+**Thoughts** "Having issues passing FCC test"
+
+**Link(s) to work**
+
