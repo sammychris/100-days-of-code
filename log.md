@@ -854,3 +854,11 @@
 
 **Link(s) to work**
 
+
+### Day 81: June 10, Sunday 
+
+**Today's Progress**: "Currently working on the first Advanced Node and Express application "Metric-Imperial Converter"" 
+
+**Thoughts** "Having issues passing FCC test"
+
+**Link(s) to work**
