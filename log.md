@@ -862,3 +862,13 @@
 **Thoughts** "Having issues passing FCC test"
 
 **Link(s) to work**
+
+
+
+### Day 82: June 11, Monday 
+
+**Today's Progress**: "Currently working on the test part of "Metric-Imperial Converter"" 
+
+**Thoughts** "Having issues passing FCC test"
+
+**Link(s) to work**
