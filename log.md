@@ -826,7 +826,7 @@
 
 
 
-### Day 78: June 7, Thursday 
+### Day 78: June 6, Thursday 
 
 **Today's Progress**: "Completed the 'Information Security with HelmetJS'" 
 
@@ -836,7 +836,7 @@
 
 
 
-### Day 79: June 8, Friday 
+### Day 79: June 7, Friday 
 
 **Today's Progress**: "Completed the 'Quality Assurance with Chai Challenges'" 
 
@@ -846,7 +846,7 @@
 
 
 
-### Day 80: June 9, Saturday 
+### Day 80: June 8, Saturday 
 
 **Today's Progress**: "Currently on Advanced Node and Express..." 
 
@@ -855,20 +855,31 @@
 **Link(s) to work**
 
 
-### Day 81: June 10, Sunday 
+### Day 81: June 9, Sunday 
 
 **Today's Progress**: "Currently working on the first Advanced Node and Express application "Metric-Imperial Converter"" 
 
 **Thoughts** "Having issues passing FCC test"
 
-**Link(s) to work**
+**Link(s) to work** [Metril Imperial Converter](https://sammychris-metric-imperial-converter.glitch.me)
 
 
 
-### Day 82: June 11, Monday 
+### Day 82: June 10, Monday 
 
 **Today's Progress**: "Currently working on the test part of "Metric-Imperial Converter"" 
 
 **Thoughts** "Having issues passing FCC test"
 
-**Link(s) to work**
+**Link(s) to work**  [Metril Imperial Converter](https://sammychris-metric-imperial-converter.glitch.me)
+
+
+
+
+### Day 83: June 11, Tuesday 
+
+**Today's Progress**: "Completed the  "Metric-Imperial Converter"" 
+
+**Thoughts** "Finally I was able to complete all the test..."
+
+**Link(s) to work** [Metril Imperial Converter](https://sammychris-metric-imperial-converter.glitch.me)
