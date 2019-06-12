@@ -883,3 +883,14 @@
 **Thoughts** "Finally I was able to complete all the test..."
 
 **Link(s) to work** [Metril Imperial Converter](https://sammychris-metric-imperial-converter.glitch.me)
+
+
+
+
+### Day 84: June 12, Wednesday
+
+**Today's Progress**: "Completed the  "Metric-Imperial Converter"" 
+
+**Thoughts** "Finally I was able to complete all the test..."
+
+**Link(s) to work** [Metril Imperial Converter](https://sammychris-metric-imperial-converter.glitch.me)
