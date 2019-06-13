@@ -894,3 +894,12 @@
 **Thoughts** "Finally I was able to complete all the test..."
 
 **Link(s) to work** [Metril Imperial Converter](https://sammychris-metric-imperial-converter.glitch.me)
+
+
+### Day 85: June 13, Thursday
+
+**Today's Progress**: "Currently working on the Issue Tracker" 
+
+**Thoughts** "Finally I was able to complete all the test..."
+
+**Link(s) to work**
