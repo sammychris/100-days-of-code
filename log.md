@@ -898,8 +898,18 @@
 
 ### Day 85: June 13, Thursday
 
-**Today's Progress**: "Currently working on the Issue Tracker" 
+**Today's Progress**: "Completed the Issue Tracker on fcc" 
 
 **Thoughts** "Finally I was able to complete all the test..."
+
+**Link(s) to work**
+
+
+
+### Day 86: June 14, Friday
+
+**Today's Progress**: "Currently on  Personal Library" 
+
+**Thoughts** "Just getting started"
 
 **Link(s) to work**
