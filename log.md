@@ -902,7 +902,7 @@
 
 **Thoughts** "Finally I was able to complete all the test..."
 
-**Link(s) to work**
+**Link(s) to work**[Issue Tracker](https://sammychris-issue-tracker.glitch.me)
 
 
 
@@ -912,4 +912,14 @@
 
 **Thoughts** "Just getting started"
 
-**Link(s) to work**
+**Link(s) to work**[Fcc Personal Library](https://sammychris-fcc-project-library.glitch.me)
+
+
+
+### Day 87: June 15, Saturday
+
+**Today's Progress**: "Completed the Personal Library on FCC" 
+
+**Thoughts** "passed all test cases"
+
+**Link(s) to work**[Fcc Personal Library](https://sammychris-fcc-project-library.glitch.me)
