@@ -923,3 +923,14 @@
 **Thoughts** "passed all test cases"
 
 **Link(s) to work**[Fcc Personal Library](https://sammychris-fcc-project-library.glitch.me)
+
+
+
+### Day 88: June 16, Sunday
+
+**Today's Progress**: "Currently working on "FCC Stock Price Checker" project" 
+
+**Thoughts** "The given Api for this project is not working, this project is giving me a hard time"
+
+**Link(s) to work**
+
