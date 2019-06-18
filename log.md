@@ -932,5 +932,22 @@
 
 **Thoughts** "The given Api for this project is not working, this project is giving me a hard time"
 
-**Link(s) to work**
+**Link(s) to work** [FCC Stock Price Checker](https://sammychris-project-stock-checker.glitch.me)
 
+
+### Day 89: June 17, Monday
+
+**Today's Progress**: "Completed the working on "FCC Stock Price Checker" project" 
+
+**Thoughts** "Had issues after working on the project, the page kept on reloading "
+
+**Link(s) to work** [FCC Stock Price Checker](https://sammychris-project-stock-checker.glitch.me)
+
+
+### Day 90: June 18, Tuesday
+
+**Today's Progress**: "Finally completed the "FCC Stock Price Checker" project" 
+
+**Thoughts** "But this time was able resolved the page reloading issue by using vanillajs for the frondend instead of jquery"
+
+**Link(s) to work** [FCC Stock Price Checker](https://sammychris-project-stock-checker.glitch.me)
