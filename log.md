@@ -951,3 +951,12 @@
 **Thoughts** "But this time was able resolved the page reloading issue by using vanillajs for the frondend instead of jquery"
 
 **Link(s) to work** [FCC Stock Price Checker](https://sammychris-project-stock-checker.glitch.me)
+
+
+### Day 91: June 19, Wednesday
+
+**Today's Progress**: "Currently working on the  Fcc "Anon Message Board" Project." 
+
+**Thoughts** "I have learnt alot from all these project. It's feels amazing..."
+
+**Link(s) to work** [FCC Stock Price Checker](https://sammychris-project-stock-checker.glitch.me)
