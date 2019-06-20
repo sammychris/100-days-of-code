@@ -959,4 +959,13 @@
 
 **Thoughts** "I have learnt alot from all these project. It's feels amazing..."
 
-**Link(s) to work** [FCC Stock Price Checker](https://sammychris-project-stock-checker.glitch.me)
+**Link(s) to work**
+
+
+### Day 92: June 20, Thursday
+
+**Today's Progress**: "Still working on the  Fcc "Anon Message Board" Project." 
+
+**Thoughts** "Had some tough time fixing an error"
+
+**Link(s) to work**
