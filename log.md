@@ -969,3 +969,12 @@
 **Thoughts** "Had some tough time fixing an error"
 
 **Link(s) to work**
+
+
+### Day 93: June 21, Fridy
+
+**Today's Progress**: "Completed the  Fcc "Anon Message Board" Project." 
+
+**Thoughts** "Just still working on it's test cases"
+
+**Link(s) to work**
