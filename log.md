@@ -959,7 +959,7 @@
 
 **Thoughts** "I have learnt alot from all these project. It's feels amazing..."
 
-**Link(s) to work**
+**Link(s) to work**[Fcc Message Board](https://sammychris-fcc-message-board.glitch.me)
 
 
 ### Day 92: June 20, Thursday
@@ -968,13 +968,23 @@
 
 **Thoughts** "Had some tough time fixing an error"
 
-**Link(s) to work**
+**Link(s) to work**[Fcc Message Board](https://sammychris-fcc-message-board.glitch.me)
 
 
-### Day 93: June 21, Fridy
+### Day 93: June 21, Friday
 
 **Today's Progress**: "Completed the  Fcc "Anon Message Board" Project." 
 
 **Thoughts** "Just still working on it's test cases"
 
-**Link(s) to work**
+**Link(s) to work**[Fcc Message Board](https://sammychris-fcc-message-board.glitch.me)
+
+
+
+### Day 94: June 22, Saturday
+
+**Today's Progress**: "Completed the Fcc "Anon Message Board" Project, all test passed and add some design on the frontend." 
+
+**Thoughts** "Think I will start working on my portfolio"
+
+**Link(s) to work**[Fcc Message Board](https://sammychris-fcc-message-board.glitch.me)
