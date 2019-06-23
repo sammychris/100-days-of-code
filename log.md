@@ -988,3 +988,12 @@
 **Thoughts** "Think I will start working on my portfolio"
 
 **Link(s) to work**[Fcc Message Board](https://sammychris-fcc-message-board.glitch.me)
+
+
+### Day 95: June 23, Sunday
+
+**Today's Progress**: "Completed the Fcc "Anon Message Board" Project, all test passed and add some design on the frontend." 
+
+**Thoughts** "Think I will start working on my portfolio"
+
+**Link(s) to work**[Fcc Message Board](https://sammychris-fcc-message-board.glitch.me)
