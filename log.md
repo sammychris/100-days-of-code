@@ -997,3 +997,21 @@
 **Thoughts** "Think I will start working on my portfolio"
 
 **Link(s) to work**[Fcc Message Board](https://sammychris-fcc-message-board.glitch.me)
+
+
+### Day 96: June 24, Mondy
+
+**Today's Progress**: "Completed the api Backend for my porfolio" 
+
+**Thoughts** "Will have to start working on the frontend tomorrow"
+
+**Link(s) to work** Sorry I can't give the link to this section
+
+
+### Day 95: June 23, Sunday
+
+**Today's Progress**: "Started working on the frontend section of my porfolio" 
+
+**Thoughts** "I really like these flow"
+
+**Link(s) to work** Not hosted yet, currently offline...
