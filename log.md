@@ -1008,7 +1008,7 @@
 **Link(s) to work** Sorry I can't give the link to this section
 
 
-### Day 95: June 25, Tuesday
+### Day 97: June 25, Tuesday
 
 **Today's Progress**: "Started working on the frontend section of my porfolio" 
 
@@ -1018,7 +1018,7 @@
 
 
 
-### Day 96: June 26, Wednesday
+### Day 98: June 26, Wednesday
 
 **Today's Progress**: "Still working on the frontend section of my porfolio" 
 
@@ -1029,7 +1029,7 @@
 
 
 
-### Day 97: June 27, Thursday
+### Day 99: June 27, Thursday
 
 **Today's Progress**: "Still working on the frontend section of my porfolio" 
 
