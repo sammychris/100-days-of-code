@@ -1022,7 +1022,17 @@
 
 **Today's Progress**: "Still working on the frontend section of my porfolio" 
 
-**Thoughts** "I really like these flow"
+**Thoughts** "Had some issues finding the right design"
 
 **Link(s) to work** Not hosted yet, currently offline...
 
+
+
+
+### Day 97: June 27, Thursday
+
+**Today's Progress**: "Still working on the frontend section of my porfolio" 
+
+**Thoughts** "Finally got a design style for my project"
+
+**Link(s) to work** Not hosted yet, currently offline...
