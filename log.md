@@ -1036,3 +1036,56 @@
 **Thoughts** "Finally got a design style for my project"
 
 **Link(s) to work** Not hosted yet, currently offline...
+
+
+### Day 100: June 28, Friday
+
+**Today's Progress**: "Finally completed the front section" 
+
+**Thoughts** "Took a while"
+
+**Link(s) to work** [Portfolio](https://sammychris.github.io)
+
+
+### R2Day1: June 29, Saturday
+
+**Today's Progress**: "Just started push my frontend" 
+
+**Thoughts** "Still making some changes"
+
+**Link(s) to work** [Portfolio](https://sammychris.github.io)
+
+### R2Day2: June 30, Sunday
+
+**Today's Progress**: "Just started push my frontend and making some changes" 
+
+**Thoughts** "Still making some changes"
+
+**Link(s) to work** [Portfolio](https://sammychris.github.io)
+
+
+### R2Day3: July 1, Monday
+
+**Today's Progress**: "Did not pushing pushing my, will have to continue tomorrow" 
+
+**Thoughts** "Still making some changes"
+
+**Link(s) to work** [Portfolio](https://sammychris.github.io)
+
+
+### R2Day4: July 2, Tuesday
+
+**Today's Progress**: "Finally Pushed only my frontend and d3 projects" 
+
+**Thoughts** "Will still have to push the backend project later"
+
+**Link(s) to work** [Portfolio](https://sammychris.github.io)
+
+
+### R2Day5: July 3, Wednesday
+
+**Today's Progress**: "Just started working on my previous project the MaintenanceTracker" 
+
+**Thoughts** "I have to convert the app from vanilla to react and from array like DB to mongodb"
+
+**Link(s) to work** Not yet
