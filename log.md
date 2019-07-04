@@ -1089,3 +1089,12 @@
 **Thoughts** "I have to convert the app from vanilla to react and from array like DB to mongodb"
 
 **Link(s) to work** Not yet
+
+
+### R2Day6: July 4, Thursday
+
+**Today's Progress**: "Installed react and almost through setting frontend" 
+
+**Thoughts** "lint some issues"
+
+**Link(s) to work** Not yet
