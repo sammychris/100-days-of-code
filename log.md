@@ -1098,3 +1098,22 @@
 **Thoughts** "lint some issues"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day7: July 5, Friday
+
+**Today's Progress**: "started working app frondend routing" 
+
+**Thoughts** "Looking for a good resource"
+
+**Link(s) to work** Not yet
+
+
+### R2Day8: July 6, Saturday
+
+**Today's Progress**: "setting up login for app" 
+
+**Thoughts** "Finally found the best resource to learn from"
+
+**Link(s) to work** Not yet
