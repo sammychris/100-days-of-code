@@ -1117,3 +1117,24 @@
 **Thoughts** "Finally found the best resource to learn from"
 
 **Link(s) to work** Not yet
+
+
+
+
+### R2Day9: July 7, Sunday
+
+**Today's Progress**: "started working on my ui page for maintenance tracker app on Figma" 
+
+**Thoughts** "It becoming tough thou."
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day10: July 8, Monday
+
+**Today's Progress**: "Complete the ui page for user maintenane tracker" 
+
+**Thoughts** "Finally did it. Wow!"
+
+**Link(s) to work** Not yet
