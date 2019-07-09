@@ -1138,3 +1138,13 @@
 **Thoughts** "Finally did it. Wow!"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day11: July 9, Tuesday
+
+**Today's Progress**: "Complete my Login and Signup page for my maintenane tracker" 
+
+**Thoughts** "did not do much tody"
+
+**Link(s) to work** Not yet
