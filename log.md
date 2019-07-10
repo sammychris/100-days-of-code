@@ -1148,3 +1148,12 @@
 **Thoughts** "did not do much tody"
 
 **Link(s) to work** Not yet
+
+
+### R2Day12: July 10, Wednesday
+
+**Today's Progress**: "Currently to login and sign page validation for maintenane tracker" 
+
+**Thoughts** "did not do much tody"
+
+**Link(s) to work** Not yet
