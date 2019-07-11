@@ -1150,10 +1150,21 @@
 **Link(s) to work** Not yet
 
 
+
 ### R2Day12: July 10, Wednesday
 
 **Today's Progress**: "Currently to login and sign page validation for maintenane tracker" 
 
 **Thoughts** "did not do much tody"
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day13: July 11, Thurday
+
+**Today's Progress**: "Currently working on User's page" 
+
+**Thoughts** "Will have to do more today"
 
 **Link(s) to work** Not yet
