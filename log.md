@@ -1168,3 +1168,40 @@
 **Thoughts** "Will have to do more today"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day13: July 12, Friday
+
+**Today's Progress**: "breaking each section into components" 
+
+**Thoughts** "Will have to do more today"
+
+**Link(s) to work** Not yet
+
+
+### R2Day13: July 13, Saturday
+
+**Today's Progress**: "Currently working on the Post request form" 
+
+**Thoughts** "Will have to do more today"
+
+**Link(s) to work** Not yet
+
+
+### R2Day13: July 14, Sunday
+
+**Today's Progress**: "Finish working on the Post request form" 
+
+**Thoughts** "Will have to do more today"
+
+**Link(s) to work** Not yet
+
+
+### R2Day13: July 15, Monday
+
+**Today's Progress**: "Change page designs" 
+
+**Thoughts** "Will have to do more today"
+
+**Link(s) to work** Not yet
