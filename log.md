@@ -1155,7 +1155,7 @@
 
 **Today's Progress**: "Currently to login and sign page validation for maintenane tracker" 
 
-**Thoughts** "did not do much tody"
+**Thoughts** "did not do much today"
 
 **Link(s) to work** Not yet
 
@@ -1171,37 +1171,75 @@
 
 
 
-### R2Day13: July 12, Friday
+### R2Day14: July 12, Friday
 
 **Today's Progress**: "breaking each section into components" 
 
-**Thoughts** "Will have to do more today"
+**Thoughts** "Thinking through each components"
 
 **Link(s) to work** Not yet
 
 
-### R2Day13: July 13, Saturday
+### R2Day15: July 13, Saturday
 
 **Today's Progress**: "Currently working on the Post request form" 
 
-**Thoughts** "Will have to do more today"
+**Thoughts** "Enjoying every aspect of this"
 
 **Link(s) to work** Not yet
 
 
-### R2Day13: July 14, Sunday
+### R2Day16: July 14, Sunday
 
 **Today's Progress**: "Finish working on the Post request form" 
 
+**Thoughts** "Feeling so happy right now!"
+
+**Link(s) to work** Not yet
+
+
+### R2Day17: July 15, Monday
+
+**Today's Progress**: "Change page designs" 
+
+**Thoughts** "Thinking of better designs"
+
+**Link(s) to work** Not yet
+
+
+### R2Day18: July 16, Tuesday
+
+**Today's Progress**: "Started working on functionality" 
+
+**Thoughts** "Couldn't do much today"
+
+**Link(s) to work** Not yet
+
+
+### R2Day19: July 17, Wednesday
+
+**Today's Progress**: "Moved to the next functionality" 
+
 **Thoughts** "Will have to do more today"
 
 **Link(s) to work** Not yet
 
 
-### R2Day13: July 15, Monday
 
-**Today's Progress**: "Change page designs" 
+### R2Day20: July 18, Thursday
 
-**Thoughts** "Will have to do more today"
+**Today's Progress**: "Still working on page functionality" 
+
+**Thoughts** "It become harder and exciting at the same time"
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day21: July 19, Friday
+
+**Today's Progress**: "change page design while working on functionality Maintenance Tracker App" 
+
+**Thoughts** "Had to issues which the font size"
 
 **Link(s) to work** Not yet
