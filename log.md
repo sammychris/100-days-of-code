@@ -1243,3 +1243,13 @@
 **Thoughts** "Had to issues which the font size"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day22: July 20, Saturday
+
+**Today's Progress**: "Couldn't do much today" 
+
+**Thoughts** "Had to think of what to do"
+
+**Link(s) to work** Not yet
