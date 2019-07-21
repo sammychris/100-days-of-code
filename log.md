@@ -1253,3 +1253,13 @@
 **Thoughts** "Had to think of what to do"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day23: July 21, Sunday
+
+**Today's Progress**: "working on the loading and notification part of the application" 
+
+**Thoughts** "Thinking of our this things can be implemented"
+
+**Link(s) to work** Not yet
