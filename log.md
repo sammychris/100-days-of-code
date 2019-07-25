@@ -1263,3 +1263,42 @@
 **Thoughts** "Thinking of our this things can be implemented"
 
 **Link(s) to work** Not yet
+
+
+### R2Day24: July 22, Monday
+
+**Today's Progress**: "Worked on the notification" 
+
+**Thoughts** "Notification still in process"
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day25: July 23, Tuesday
+
+**Today's Progress**: "Did not do anything today" 
+
+**Thoughts** "Just looking a break"
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day26: July 24, Wednesday
+
+**Today's Progress**: "Still did not do anything today" 
+
+**Thoughts** "Still taking a break"
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day27: July 25, Thursday
+
+**Today's Progress**: "Will resume working on the notification today" 
+
+**Thoughts** "Just need to get started"
+
+**Link(s) to work** Not yet
