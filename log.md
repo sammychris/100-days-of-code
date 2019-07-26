@@ -1302,3 +1302,13 @@
 **Thoughts** "Just need to get started"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day28: July 26, Friday
+
+**Today's Progress**: "Currently working on the edit and delete buttons for route" 
+
+**Thoughts** "Just need to start working on this"
+
+**Link(s) to work** Not yet
