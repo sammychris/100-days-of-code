@@ -1322,3 +1322,24 @@
 **Thoughts** "It's still taking time"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day29: July 28, Sunday
+
+**Today's Progress**: "Still working on the edit and delete buttons for route" 
+
+**Thoughts** "It's still taking time"
+
+**Link(s) to work** Not yet
+
+
+
+
+### R2Day29: July 29, Monday
+
+**Today's Progress**: "Working on the edit and delete functionality" 
+
+**Thoughts** "It's still taking time"
+
+**Link(s) to work** Not yet
