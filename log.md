@@ -1343,3 +1343,13 @@
 **Thoughts** "It's still taking time"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day29: July 30, Tuesday
+
+**Today's Progress**: "Complete on the edit functionality" 
+
+**Thoughts** "Moving to next level"
+
+**Link(s) to work** Not yet
