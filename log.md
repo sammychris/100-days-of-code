@@ -1353,3 +1353,13 @@
 **Thoughts** "Moving to next level"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day30: July 31, Wednesday
+
+**Today's Progress**: "Complete on the delete functionality" 
+
+**Thoughts** "I don't like the way I'm feeling today."
+
+**Link(s) to work** Not yet
