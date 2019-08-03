@@ -1363,3 +1363,31 @@
 **Thoughts** "I don't like the way I'm feeling today."
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day31: August 1, Thurday
+
+**Today's Progress**: "Change page design again" 
+
+**Thoughts** "Stubborn me, change page design again."
+
+**Link(s) to work** Not yet
+
+
+### R2Day32: August 2, Friday
+
+**Today's Progress**: "Started working on the page request details" 
+
+**Thoughts** "Working on the detailed request details"
+
+**Link(s) to work** Not yet
+
+
+### R2Day33: August 3, Saturday
+
+**Today's Progress**: "Still working on functionality" 
+
+**Thoughts** "Have to start working on functionality"
+
+**Link(s) to work** Not yet
