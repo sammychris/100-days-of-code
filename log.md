@@ -1391,3 +1391,41 @@
 **Thoughts** "Have to start working on functionality"
 
 **Link(s) to work** Not yet
+
+
+### R2Day34: August 4, Sunday
+
+**Today's Progress**: "Change display request page" 
+
+**Thoughts** "Have to start working on it functionality"
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day35: August 5, Monday
+
+**Today's Progress**: "Started working on the design of the page" 
+
+**Thoughts** "Still working on it page design and adding other functions"
+
+**Link(s) to work** Not yet
+
+
+### R2Day36: August 6, Tuesday
+
+**Today's Progress**: "Completed the functionality design display request" 
+
+**Thoughts** "Will have to start working on the next stuff"
+
+**Link(s) to work** Not yet
+
+
+### R2Day37: August 7, Wednesday
+
+**Today's Progress**: "Started working on other pages" 
+
+**Thoughts** "I don't have to do much today"
+
+**Link(s) to work** Not yet
+
