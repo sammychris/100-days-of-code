@@ -1429,3 +1429,42 @@
 
 **Link(s) to work** Not yet
 
+
+
+### R2Day38: August 8, Thursday
+
+**Today's Progress**: "Still working on the Maintenance Tracker" 
+
+**Thoughts** "Things are just getting"
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day39: August 9, Friday
+
+**Today's Progress**: "Still working on the Maintenance Tracker" 
+
+**Thoughts** "I don't have to do much today"
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day40: August 10, Saturday
+
+**Today's Progress**: "Did not do much today" 
+
+**Thoughts** "Things are working as expected"
+
+**Link(s) to work** Not yet
+
+
+
+### R2Day41: August 11, Sunday
+
+**Today's Progress**: "Working on job search" 
+
+**Thoughts** "Things should work out as expected"
+
+**Link(s) to work** Not yet
