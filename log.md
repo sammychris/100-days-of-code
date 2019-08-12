@@ -1468,3 +1468,13 @@
 **Thoughts** "Things should work out as expected"
 
 **Link(s) to work** Not yet
+
+
+
+### R2Day41: August 11, Sunday
+
+**Today's Progress**: "Couldn't do much today" 
+
+**Thoughts** "Kind of like tired"
+
+**Link(s) to work** Not yet
